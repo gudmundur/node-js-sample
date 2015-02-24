@@ -7,11 +7,5 @@
     "node",
     "express",
     "static"
-  ],
-  "env":{
-    "BUILDPACK_URL":"https://github.com/ryanbrainard/heroku-buildpack-print-env.git#envdir"
-  },
-  "addons":[
-    "redistogo:nano"
   ]
 }
