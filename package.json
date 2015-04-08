@@ -25,8 +25,5 @@
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
-  "license": "MIT",
-  "scripts": {
-    "postinstall": "exit 1"
-  }
+  "license": "MIT"
 }
