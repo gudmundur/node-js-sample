@@ -3,7 +3,9 @@
   "scripts": {
   },
   "env": {
-    "EMPTY_VAR": ""
+    "EMPTY_VAR": {
+      "required": false
+    }
   },
   "addons": [
 
